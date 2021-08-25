@@ -6,7 +6,7 @@ When -kgap=2, feature structure will be X_XX, and X_ _XX.
 When -kgap=3, feature structure will be X_XX, X_ _ XX, and X_ _ _ XX.  
 ## Command for generate dataset only monoDiKGap method  
 ### run command  
-python monoD.py -seq=Protein -fa=/home/gongxiaodou/data/GA.fasta  -la=/home/gongxiaodou/data/label.txt   -full=1  -optimum=1 -f12=1 -kgap=2
+python monoDi.py -seq=Protein -fa=/home/gongxiaodou/data/GA.fasta  -la=/home/gongxiaodou/data/label.txt   -full=1  -optimum=1 -f12=1 -kgap=2
 ### parameter description
 full = 1 where the parameters that do not want to save the complete set of data, optimum = 1 that do not want to save the best data set and the generated f12 = 1 generates monoDiKGap features.
 # CC  
