@@ -1,1 +1,2 @@
-# DrugHybrid
+# monoDiKGap
+## monoDiKGap Theoretical Description
