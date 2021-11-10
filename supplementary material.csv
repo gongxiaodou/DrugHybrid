@@ -1,3 +1,0 @@
-Independent test set,,,Performance metrics,,,,,,,,Confusion matrix information,,,
-Sample number,Feature dimension,Method,ACC(%),TPR,FPR,precision,F-score,MCC,ROC Area,PRC Area,TP,FP,FN,TN
-466,472,DrugHybrid_BS,96.567,0.966,0.038,0.966,0.966,0.931,0.990 ,0.987,199,11,5,351
